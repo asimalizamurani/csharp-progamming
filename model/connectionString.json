@@ -1,0 +1,4 @@
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=LAB2-PC9\\SQLEXPRESS;Database=videotube;Trusted_Connection=True;TrustServerCertificate=True"
+  }

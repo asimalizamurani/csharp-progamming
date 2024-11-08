@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-8 col-sm-12">
+            <div class="card mt-5">
+                <div class="card-header text-center">
+                    <h3>User Login</h3>
+                </div>
+                <div class="card-body">
+                    <form action="/account/login" method="POST">
+                        <!-- Email Field -->
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email</label>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" required>
+                        </div>
+
+                        <!-- Password Field -->
+                        <div class="mb-3">
+                            <label for="password" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="password" name="password" placeholder="Enter password" required>
+                        </div>
+
+                        <!-- Submit Button -->
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary">Login</button>
+                        </div>
+
+                        <!-- Forgot Password Link -->
+                        <div class="text-center mt-3">
+                            <a href="/account/forgot-password" class="text-decoration-none">Forgot Password?</a>
+                        </div>
+
+                        <!-- Register Link -->
+                        <div class="text-center mt-2">
+                            <p>Don't have an account? <a href="/account/register" class="text-decoration-none">Register here</a></p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

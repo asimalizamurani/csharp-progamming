@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asim Ali\\C#\\practicemodel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\views\\user\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:views\\user\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:data\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111070618_SeeUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241111070618_SeeUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111070027_SeedUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241111070027_SeedUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111065136_AddUserToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241111065136_AddUserToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111064915_AddUserTableToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241111064915_AddUserTableToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|d:\\asim ali\\c#\\practicemodel\\practicemodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B24B229-A997-459A-B7CD-5551D61C9143}|practicemodel.csproj|solutionrelative:practicemodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Views\\User\\User.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\User.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Views\\User\\User.cshtml",
+              "RelativeToolTip": "Views\\User\\User.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T07:20:14.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241111070618_SeeUserTable.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111070618_SeeUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241111070618_SeeUserTable.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111070618_SeeUserTable.cs",
+              "RelativeToolTip": "Migrations\\20241111070618_SeeUserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:06:18.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241111070027_SeedUsersTable.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111070027_SeedUsersTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241111070027_SeedUsersTable.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111070027_SeedUsersTable.cs",
+              "RelativeToolTip": "Migrations\\20241111070027_SeedUsersTable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:00:28.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241111065136_AddUserToDb.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111065136_AddUserToDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241111065136_AddUserToDb.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111065136_AddUserToDb.cs",
+              "RelativeToolTip": "Migrations\\20241111065136_AddUserToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:51:37.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241111064915_AddUserTableToDb.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111064915_AddUserTableToDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241111064915_AddUserTableToDb.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Migrations\\20241111064915_AddUserTableToDb.cs",
+              "RelativeToolTip": "Migrations\\20241111064915_AddUserTableToDb.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:49:15.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:40:20.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T06:23:09.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T06:21:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T06:20:53.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:20:08.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:15:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDb.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\Data\\ApplicationDb.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDb.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\Data\\ApplicationDb.cs",
+              "RelativeToolTip": "Data\\ApplicationDb.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:10:50.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "practicemodel",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\practicemodel.csproj",
+              "RelativeDocumentMoniker": "practicemodel.csproj",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\practicemodel.csproj",
+              "RelativeToolTip": "practicemodel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T06:10:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\practicemodel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asim Ali\\C#\\practicemodel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T06:07:01.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

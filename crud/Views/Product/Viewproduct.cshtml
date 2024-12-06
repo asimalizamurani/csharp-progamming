@@ -1,0 +1,38 @@
+﻿@model IEnumerable<formpractice.Models.Product>
+
+@{
+    ViewData["Title"] = "Products List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Description</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(product.ImagePath))
+                    {
+                        <img src="@product.ImagePath" alt="Product Image" style="width: 100px; height: 100px;" />
+                    }
+                    else
+                    {
+                        <span>No image</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Create">Create Product</a>

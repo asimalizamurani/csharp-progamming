@@ -1,0 +1,32 @@
+﻿@model formpractice.Models.Product
+
+@{
+    ViewData["Title"] = "Add New Product";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Product Name</label>
+        <input asp-for="Name" class="form-control" />
+        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })  <!-- Show validation errors for Name -->
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label">Product Description</label>
+        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+        @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })  <!-- Show validation errors for Description -->
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Image" class="control-label">Product Image</label>
+        <input asp-for="Image" type="file" class="form-control-file" />
+        @Html.ValidationMessageFor(model => model.Image, "", new { @class = "text-danger" })  <!-- Show validation errors for Image -->
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Product</button>
+</form>
+
+<br />
+<a href="@Url.Action("Viewproduct", "Product")" class="btn btn-secondary">Back to Products</a>

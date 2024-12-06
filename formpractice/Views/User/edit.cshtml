@@ -1,0 +1,29 @@
+﻿@model User;
+
+<h2>Edit User</h2>
+
+<form method="post">
+    
+    <input type="hidden" name="Id" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input asp-for="Name" id="Name" name="Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" id="Email" name="Email" class="form-control" />
+    </div>
+    <div class="form-group hidden">
+        <label asp-for="Password">Password</label>
+        <input asp-for="Password" id="Password" name="Password" class="form-control" />
+    </div>
+
+
+    
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+<a class="btn btn-secondary mt-2" href="@Url.Action("Viewuser", "User")">Back to List</a>

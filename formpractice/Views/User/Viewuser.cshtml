@@ -1,0 +1,42 @@
+﻿@using System.Security.Cryptography;
+@model IEnumerable<User>
+
+@{
+    ViewData["Title"] = "View User Page";
+}
+
+<h2 class="text-center my-4">View User Page</h2>
+
+<div class="container">
+    <div class="row">
+        @foreach (var user in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">User Information</h5>
+                        <p class="card-text"><strong>ID:</strong> @user.Id</p>
+                        <p class="card-text"><strong>Name:</strong> @user.Name</p>
+                        <p class="card-text"><strong>Email:</strong> @user.Email</p>
+                        <a class="btn btn-primary mt-4"
+                           asp-area=""
+                           asp-controller="User"
+                           asp-action="Edit"
+                           asp-route-id="@user.Id">Edit User</a>
+
+                        <a class="btn btn-primary mt-4"
+                           asp-area=""
+                           asp-controller="User"
+                           asp-action="delete"
+                           asp-route-id="@user.Id">Delete User</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <a class="btn btn-primary mt-4" asp-area="" asp-controller="User" asp-action="Createuser">Create User</a>
+   
+</div>
+
+

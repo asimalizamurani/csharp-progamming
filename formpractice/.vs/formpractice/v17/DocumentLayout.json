@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asim Ali\\C#\\formpractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\views\\user\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:views\\user\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\views\\user\\viewuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:views\\user\\viewuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\migrations\\20241122072449_addusertabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:migrations\\20241122072449_addusertabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\formpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:formpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|d:\\asim ali\\c#\\formpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E953655-5C47-4934-8B79-F467B84C6AF0}|formpractice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "wwwroot\\css\\site.css*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T06:23:58.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\delete.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\delete.cshtml",
+              "RelativeToolTip": "Views\\User\\delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:31:18.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:13:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notfound.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\Notfound.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Notfound.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\Notfound.cshtml",
+              "RelativeToolTip": "Views\\User\\Notfound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T06:49:01.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\edit.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\edit.cshtml",
+              "RelativeToolTip": "Views\\User\\edit.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:20:51.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T06:00:40.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241122072449_AddUserTableToDb.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Migrations\\20241122072449_AddUserTableToDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241122072449_AddUserTableToDb.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Migrations\\20241122072449_AddUserTableToDb.cs",
+              "RelativeToolTip": "Migrations\\20241122072449_AddUserTableToDb.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:24:50.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:17:24.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T06:38:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Viewuser.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\Viewuser.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Viewuser.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\Viewuser.cshtml",
+              "RelativeToolTip": "Views\\User\\Viewuser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T06:38:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Createuser.cshtml",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\Createuser.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Createuser.cshtml",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Views\\User\\Createuser.cshtml",
+              "RelativeToolTip": "Views\\User\\Createuser.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T06:37:46.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAYwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:36:40.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:17:10.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:16:12.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "formpractice.csproj",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\formpractice.csproj",
+              "RelativeDocumentMoniker": "formpractice.csproj",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\formpractice.csproj",
+              "RelativeToolTip": "formpractice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T06:15:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asim Ali\\C#\\formpractice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Asim Ali\\C#\\formpractice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T06:14:01.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
